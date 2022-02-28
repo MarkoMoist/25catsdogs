@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatsAndDogsDB", "CatsAndDogsDB\CatsAndDogsDB.csproj", "{5CD3E696-E6DA-4481-9E1D-87CFA30BF619}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{44A75448-BD71-4B1E-AC81-9CBE38D7E7BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CD3E696-E6DA-4481-9E1D-87CFA30BF619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD3E696-E6DA-4481-9E1D-87CFA30BF619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD3E696-E6DA-4481-9E1D-87CFA30BF619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD3E696-E6DA-4481-9E1D-87CFA30BF619}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6785386A-DA5B-49E4-BD38-B2EAF8E84802}
+	EndGlobalSection
+EndGlobal
